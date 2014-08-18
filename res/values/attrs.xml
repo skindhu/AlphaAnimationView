@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AlphaAnimationView">
+        <attr name="interpolator" format="integer" />
+        <attr name="duration" format="integer" />
+        <attr name="interval" format="integer" />
+    </declare-styleable>
+</resources>
