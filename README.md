@@ -1,7 +1,34 @@
-This is an Alpha in and out widget for Android
+#An Carousel Widget with Alpha in and out effet for Android
 
-usage:   
-AlphaAnimationView view  = new AlphaAnimationView(context);
-view.setDuration(3000).setInterval(3000).setInterpolator(android.R.accelaterate_interpolator);
-view.setAdapter(viewAdapter);
+
+##Usage:
+
+```java
+AlphaAnimationView view = new AlphaAnimationView(context);
+view.setDuration(3000)
+    .setInterval(3000)
+    .setInterpolator(android.R.accelaterate_interpolator);
+view.setAdapter(new MyViewAdapter());
 view.startAnimation();
+
+
+class MyViewAdapter extends ViewAdapter{
+    @Override
+    public int getCount() {}
+    
+    @Override
+    public Object getItem(int position){}
+    
+    @Override
+    public View getView(int position, View convertView) {}
+}
+```
+
+
+
+
+
+
+
+
+

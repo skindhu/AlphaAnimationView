@@ -48,13 +48,11 @@ public class AphaAnimationView extends FrameLayout implements Animation.Animatio
 		this.duration = a.getInt(R.styleable.AlphaAnimationView_duration, defalutDuration);
 		this.interval = a.getInt(R.styleable.AlphaAnimationView_interval, defalutInterval);
 		a.recycle();
-		initAnimationView();
 	}
 
 	public AphaAnimationView(Context context) {
 		super(context);
 		this.context = context;
-		initAnimationView();
 	}
 	
 	public AphaAnimationView setInterpolator(int interpolator) {
@@ -62,10 +60,10 @@ public class AphaAnimationView extends FrameLayout implements Animation.Animatio
 		return this;
 	}
 	
-	public AphaAnimationView setDuration(int duration) {
-		this.duration = (duration == 0 ? defalutDuration : duration);
-		return this;
-	}
+    public AphaAnimationView setDuration(int duration) {
+        this.duration = (duration == 0 ? defalutDuration : duration);
+        return this;
+    }
 	
 	public AphaAnimationView setInterval(int interval) {
 		this.interval = (interval == 0 ? defalutInterval : interval);
@@ -83,6 +81,7 @@ public class AphaAnimationView extends FrameLayout implements Animation.Animatio
 	}
 	
 	private void initChildViews() {
+		initAnimationView();
 		totalItemCount = adapter.getCount();
 		firstView = adapter.getView(getCurrentPosition(), null);
 		seconView = adapter.getView(getCurrentPosition(), null);
