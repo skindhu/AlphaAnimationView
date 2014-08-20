@@ -1,4 +1,4 @@
-#An Carousel Widget with Alpha in and out effet for Android
+#An Carousel Widget with Alpha in and out effect for Android
 
 
 ##Usage:
