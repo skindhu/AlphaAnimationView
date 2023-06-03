@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T13:25:31.464Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_witsC5bHL1XFU34fxKg" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-03T13:27:01.028Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0OHcZWdQn33cU5e-rdab" version="21.2.1" type="github">
   <diagram name="第 1 页" id="WOJ0ZGh2nlFTI2asU4OP">
     <mxGraphModel dx="1242" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,12 @@
         </mxCell>
         <mxCell id="_oJyPIj_oJFp6enQRXF--17" value="信息传递的衰减" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="850" y="155" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_oJyPIj_oJFp6enQRXF--19" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="955" y="200" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_oJyPIj_oJFp6enQRXF--20" value="说服技术的成本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="850" y="280" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
