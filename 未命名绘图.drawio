@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T13:45:18.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XwFiUtRX6CJIZhXeECyi" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T03:15:56.819Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sYZnpuqfmmIMlH1FH3WP" version="21.2.1" type="github">
   <diagram name="第 1 页" id="WOJ0ZGh2nlFTI2asU4OP">
-    <mxGraphModel dx="1242" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,8 +46,8 @@
             <mxPoint x="840" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_oJyPIj_oJFp6enQRXF--15" value="不同技术岗位间的沟通联调成本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="400" y="430" width="300" height="30" as="geometry" />
+        <mxCell id="_oJyPIj_oJFp6enQRXF--15" value="同一个需求不同岗位的同学各自开发，除了横向的沟通成本，还经常造成需求在多端的各种不一致性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_oJyPIj_oJFp6enQRXF--16" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#4D4D4D;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
